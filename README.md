@@ -1,6 +1,7 @@
 # your_app_name
 
 A new Flutter project.
+Read full articles : [[Flutterfever.com](https://flutterfever.com/how-to-create-flutter-project-using-command-line-with-different-parameter/).
 
 ## Getting Started
 
